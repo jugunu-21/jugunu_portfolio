@@ -1,17 +1,29 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
-  ],
+  purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
+  darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
+    fontFamily: {
+      sans: ['Poppins', 'sans-serif'],
+      signature: ['Great Vibes', 'cursive'],
     },
+    colors: {
+      gray: '#818181',
+      'light-gray': '#D9D9D9',
+      black: '#181818',
+      primary: '#0059B2', // blue
+      // primary: '#007FFF', // light blue
+      // primary: '#E76F00', // orange
+      white: '#FFFFFF',
+      transparent: 'transparent',
+    },
+    extend: {
+      backgroundImage: () => ({
+        'hero-pattern': 'url("/assets-hero.svg")',
+      }),
+    },
+  },
+  variants: {
+    extend: {},
   },
   plugins: [],
 };
