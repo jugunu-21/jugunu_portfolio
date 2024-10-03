@@ -1,0 +1,332 @@
+{
+  "name": "Jugunu Singh",
+  "status": "Full Stack Web Developer",
+  "description": "I am passionate and interested in the ever-growing field of Web development",
+  "navigations": [
+    {
+      "id": 1,
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "id": 3,
+      "name": "Projects",
+      "url": "/#project"
+    },
+    
+    
+    {
+      "id": 4,
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "id": 5,
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "id": 2,
+      "name": "Resume",
+      "url": "/resume"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Website dev",
+      "description": "Developing a website appearance based on design into a website that can be use. With good performance",
+      "icon": "/services/service-website.svg"
+    },
+    {
+      "id": 2,
+      "name": "WebApps dev",
+      "description": "Developing a very well-functioning web applications, various features and performance",
+      "icon": "/services/service-webapps.svg"
+    },
+    {
+      "id": 3,
+      "name": "Responsive design",
+      "description": "Develop a good Frontend design for mobile, tablet, desktop and all screen devices",
+      "icon": "/services/service-rwd.svg"
+    },
+    {
+      "id": 4,
+      "name": "Best Performance",
+      "description": "Develop a good Performance website and web application for more better experience",
+      "icon": "/services/service-performance.svg"
+    },
+    {
+      "id": 5,
+      "name": "Progressive Web Apps",
+      "description": "Develop a Progressive web apps, create website and website with native apps experience",
+      "icon": "/services/service-pwa.svg"
+    }
+  ],
+  "skills": [
+    {
+      "id": 7,
+      "name": "React JS",
+      "icon": "/skills/skill-reactjs.svg"
+    },
+    {
+      "id": 8,
+      "name": "Next JS",
+      "icon": "/skills/skill-nextjs.svg"
+    },
+    {
+      "id": 3,
+      "name": "Javascript",
+      "icon": "/skills/skill-javascript.svg"
+    },
+    {
+      "id": 1,
+      "name": "Typescript",
+      "icon": "/skills/Typescript Vector Icon.svg"
+    },
+    {
+      "id": 4,
+      "name": "TailwindCss",
+      "icon": "/skills/skill-tailwindcss.svg"
+    },
+    {
+      "id": 5,
+      "name": "Express",
+      "icon": "/skills/simple-icons--express (1).svg"
+    },
+    {
+      "id": 6,
+      "name": "Mongodb",
+      "icon": "/skills/skill-mongodb-svgrepo-com.svg"
+    },
+    {
+      "id": 9,
+      "name": "Firebase",
+      "icon": "/skills/skill-firebase.svg"
+    },
+    {
+      "id": 11,
+      "name": "Github",
+      "icon": "/skills/skill-github.svg"
+    },
+    {
+      "id": 12,
+      "name": "tRPC",
+      "icon": "/skills/logos--trpc.svg"
+    },
+    {
+      "id": 13,
+      "name": "HTML",
+      "icon": "/skills/skill-html5.svg"
+    },
+    {
+      "id": 14,
+      "name": "CSS",
+      "icon": "/skills/skill-css3.svg"
+    }
+  ],
+  "project": {
+    "title": "Project",
+    "desctiption": "Some of the projects that I've worked on to completion with some of the technologies",
+    "contents": [
+      {
+        "id": 1,
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/urstyle.png?alt=media&token=cea70699-d99a-4fb3-98ed-060e3eb2b9aa",
+        "name": "Urstyle frontend",
+        "stack": [
+          "Next JS",
+          "Tailwindcss",
+          "tRPC",
+          "Shadcn",
+          "Firebase"
+        ],
+        "category": "Personal Project",
+        "url": "https://urtsyle.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/urtsyle"
+      },
+      {
+        "id": 5,
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/urstyle.png?alt=media&token=cea70699-d99a-4fb3-98ed-060e3eb2b9aa",
+        "name": "Urstyle backend",
+        "stack": [
+          "Mongodb",
+          
+          
+          "Node","Express","Cloudinary","Multer"
+        
+       
+        ],
+        "category": "Personal Project",
+        "url": "https://urtsyle.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/urstyle-backend"
+      },
+      {
+        "id": 2,
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%20(91).png?alt=media&token=22db919a-c759-4c94-9ba7-2c8028eb6ada",
+        "name": "Keybolt",
+        "stack": [
+          "Next JS",
+          "Tailwindcss","Vercel"
+        ],
+        "category": "Personal Project",
+        "url": "https://keybolt.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/keybolt"
+      },
+      {
+        "id": 3,
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%20(90).png?alt=media&token=e6ecac61-1262-4119-af12-d36f9bd56b1d",
+        "name": "Portfolio-Website",
+        "stack": [
+          "Next JS",
+          "Tailwindcss", "Firebase"
+         
+        ],
+        "category": "Personal Project",
+        "url": "https://jugunu-portfolio.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/portfolio"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Chat with me through some of the contacts you can call to get acquainted.",
+    "contents": [
+      {
+        "id": 1,
+        "icon": "fab fa-github",
+        "name": "Github",
+        "username": "jugunu-21",
+        "category": "Social Media",
+        "url": "https://github.com/jugunu-21"
+      },
+      {
+        "id": 2,
+        "icon": "fab fa-linkedin-in",
+        "name": "Linkedin",
+        "username": "Jugunu Singh",
+        "category": "Social Media",
+        "url": "https://www.linkedin.com/in/jugunu-singh-48732b258"
+      },
+      {
+        "id": 3,
+        "icon": "fa fa-envelope",
+        "name": "Gmail",
+        "username": "aaruhijugunu@gmail.com",
+        "category": "Email",
+        "url": "mailto:aaruhijugunu@gmail.com"
+      }
+    ]
+  },
+  "about": {
+    "title": "About",
+    "description": "Learn more about my journey, experiences, and aspirations.",
+    "contents": [
+      {
+        "id": 1,
+        "name": "My History",
+        "description": "Hi, my name is Jugunu Singh, and I come from Kushinagar, Uttar Pradesh, India. I studied B.Tech in Information Technology (IT) at Hemwati Nandan Bahuguna Garhwal University. I began my web journey a few months ago through YouTube, where I started learning web development while simultaneously building my own website to enhance my skills."
+      },
+      {
+        "id": 2,
+        "name": "Current Endeavors",
+        "description": "I'm developing a platform that enables users to discover and purchase outfits from online retailers like Amazon, Myntra, and Flipkart. This site streamlines the process of finding complete ensembles, assisting busy individuals in exploring options that include complementary clothing and accessories, integrated with affiliate links."
+      },
+      {
+        "id": 3,
+        "name": "Future Plans",
+        "description": "My next objective is to refine my web development skills and explore new technologies. I aim to contribute to an innovative company where I will continue to learn, grow, and make a significant impact through hands-on experience."
+      },
+      {
+        "id": 4,
+        "name": "Aspirations",
+        "description": "I strive to become a highly proficient web developer, keeping pace with the latest trends. I envision being self-sufficient, productive, and professional. Through my work, I hope to make positive contributions to the tech industry and inspire others. Additionally, I plan to enhance my website’s capabilities to tackle challenges in outfit pairing and styling."
+      }
+    ]
+  },
+  "resume": {
+    "title": "Resume",
+    "description": "Explore my experiences, rewards, and education, as well as my activeness",
+    "contents": [
+      {
+        "id": 2,
+        "title": "Courses I Completed",
+        "contents": [
+          {
+            "id": 5,
+            "timestamp": "5 July 2021 - 25 July 2024",
+            "name": "Hitesh Choudhary | MongoDB",
+            "info": "Chai aur Code",
+            "description": "Proficient in MongoDB, including data modeling, aggregation pipelines, and implementing efficient queries for backend applications:",
+            "url": "https://youtube.com/playlist?list=PLzAGFfNxKFualSih9sm4FCRy9L7o_rVY8&si=jmXazAmJULBCpC59"
+          },
+          {
+            "id": 4,
+            "timestamp": "8 May 2024 - 24 May 2024",
+            "name": "Complete backend developer course part 2",
+            "info": "Chai aur Code",
+            "description": "Studied access and refresh tokens, user update controllers, and subscription schemas in backend development:",
+            "url": "https://youtu.be/8k-kK3tsJFY?si=Dp3PqkZmkhr2sf22"
+          },
+          {
+            "id": 3,
+            "timestamp": "1 Apr 2024 - 13 Apr 2024",
+            "name": "Complete Backend Developer course | Part 1",
+            "info": "Chai aur Code",
+            "description": "Completed the JavaScript Backend Roadmap, covering deployment, MERN integration, data modeling, API handling, and project setup:",
+            "url": "https://youtu.be/7fjOw8ApZ1I?si=rhX2zVScfcVyg5DD/"
+          },
+          {
+            "id": 2,
+            "timestamp": " 10 Jan 2024 - 29 feb 2021",
+            "name": "Next.js Tutorials for Beginners in Hindi",
+            "info": "CodeWithHarry ",
+            "description": "Completed the Complete Next.js Course in Hindi, mastering server-side rendering, file-based routing, MongoDB integration, and application deployment:",
+            "url": "https://youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&si=SvIWk8LEk_SQxGw3"
+          },
+          {
+            "id": 1,
+            "timestamp": "20 Nov 2019 - 20 Dec 2019",
+            "name": "Namaste JavaScript 🙏 Course ",
+            "info": "Front-end Learning Path",
+            "description": "Completed the Namaste JavaScript course, gaining in-depth knowledge of JavaScript fundamentals, internals, and interview preparation for web development:",
+            "url": "https://youtu.be/pN6jk0uUrD8?si=BfsIuRX0zOYQvI12"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Educational Level",
+        "contents": [
+          {
+            "id": 1,
+            "timestamp": "2020 - 2024",
+            "name": "Hemwati Nandan Bahuguna Garhwal University",
+            "info": "Bachelor of Technology (B.Tech)",
+            "description": "Studied Information Technology at Hemwati Nandan Bahuguna Garhwal University, Uttarakhand.",
+            "url": "https://hnbgu.ac.in/"
+          },
+          {
+            "id": 2,
+            "timestamp": "2017 - 2019",
+            "name": "Academic Global High School",
+            "info": "Senior Secondary School (11th and 12th Grade)",
+            "description": "Completed 11th and 12th grades at Academic Global High School, Gorakhpur, Kushmi Jungle.",
+            "url": "https://www.academicglobalhighschool.com"
+          },
+          {
+            "id": 3,
+            "timestamp": "2015 - 2017",
+            "name": "Central Public School",
+            "info": "Secondary School (9th and 10th Grade)",
+            "description": "Attended Central Public School, Pipraich, Gorakhpur for 9th and 10th grades.",
+            "url": "https://www.centralpublicschool.com"
+          }
+        ]
+      }
+    ]
+  }
+}
