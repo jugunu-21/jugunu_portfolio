@@ -176,9 +176,22 @@
         "giturl": "https://github.com/jugunu-21/keybolt"
       },
       {
+        "id": 5,
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%202024-10-08%20at%209.11.25%E2%80%AFAM.png?alt=media&token=0688b537-66e8-49d9-8285-df1c295cff52",
+        "name": "Farmopti",
+        "stack": [
+          "Next JS",
+          "Tailwindcss","Vercel"
+        ],
+        "category": "Personal Project",
+        "url": "https://farmopti.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/farmopti"
+      },
+      {
         "id": 3,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%20(90).png?alt=media&token=e6ecac61-1262-4119-af12-d36f9bd56b1d",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%202024-10-08%20at%209.17.39%E2%80%AFAM.png?alt=media&token=0cb2b5db-0bb6-45b5-9f28-c2ae524117f3",
         "name": "Portfolio-Website",
         "stack": [
           "Next JS",
@@ -186,7 +199,7 @@
          
         ],
         "category": "Personal Project",
-        "url": "https://jugunu-portfolio.vercel.app/",
+        "url": "https://www.jugunu.tech/",
         "giturl": "https://github.com/jugunu-21/jugunu_portfolio"
       }
     ]
