@@ -13,8 +13,6 @@
       "name": "Projects",
       "url": "/#project"
     },
-    
-    
     {
       "id": 4,
       "name": "About",
@@ -132,7 +130,7 @@
       {
         "id": 1,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/urstyle.png?alt=media&token=cea70699-d99a-4fb3-98ed-060e3eb2b9aa",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%202024-11-06%20at%202.33.30%E2%80%AFPM.png?alt=media&token=8593270a-8483-4c03-8281-9b5f0ad74334",
         "name": "Urstyle frontend",
         "stack": [
           "Next JS",
@@ -148,15 +146,14 @@
       {
         "id": 5,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/urstyle.png?alt=media&token=cea70699-d99a-4fb3-98ed-060e3eb2b9aa",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%202024-11-06%20at%202.33.30%E2%80%AFPM.png?alt=media&token=8593270a-8483-4c03-8281-9b5f0ad74334",
         "name": "Urstyle backend",
         "stack": [
           "Mongodb",
-          
-          
-          "Node","Express","Cloudinary","Multer"
-        
-       
+          "Node",
+          "Express",
+          "Cloudinary",
+          "Multer"
         ],
         "category": "Personal Project",
         "url": "https://urtsyle.vercel.app/",
@@ -169,7 +166,8 @@
         "name": "Keybolt",
         "stack": [
           "Next JS",
-          "Tailwindcss","Vercel"
+          "Tailwindcss",
+          "Vercel"
         ],
         "category": "Personal Project",
         "url": "https://keybolt.vercel.app/",
@@ -182,7 +180,8 @@
         "name": "Farmopti",
         "stack": [
           "Next JS",
-          "Tailwindcss","Vercel"
+          "Tailwindcss",
+          "Vercel"
         ],
         "category": "Personal Project",
         "url": "https://farmopti.vercel.app/",
@@ -195,8 +194,8 @@
         "name": "Portfolio-Website",
         "stack": [
           "Next JS",
-          "Tailwindcss", "Firebase"
-         
+          "Tailwindcss",
+          "Firebase"
         ],
         "category": "Personal Project",
         "url": "https://www.jugunu.tech/",
