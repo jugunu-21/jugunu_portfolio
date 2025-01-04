@@ -146,7 +146,7 @@
       {
         "id": 5,
         "top": true,
-        "image": "/images/urstyel-backend.png",
+        "image": "/images/urstyle-backend2.png",
         "name": "Urstyle backend",
         "stack": [
           "Mongodb",
