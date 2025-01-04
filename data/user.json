@@ -130,7 +130,7 @@
       {
         "id": 1,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%202024-11-06%20at%202.33.30%E2%80%AFPM.png?alt=media&token=8593270a-8483-4c03-8281-9b5f0ad74334",
+        "image": "/images/urtsyle.png",
         "name": "Urstyle frontend",
         "stack": [
           "Next JS",
@@ -146,7 +146,7 @@
       {
         "id": 5,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%202024-11-06%20at%202.33.30%E2%80%AFPM.png?alt=media&token=8593270a-8483-4c03-8281-9b5f0ad74334",
+        "image": "/images/urtsyle.png",
         "name": "Urstyle backend",
         "stack": [
           "Mongodb",
@@ -162,7 +162,7 @@
       {
         "id": 2,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%20(91).png?alt=media&token=22db919a-c759-4c94-9ba7-2c8028eb6ada",
+        "image": "/images/keybolt.png",
         "name": "Keybolt",
         "stack": [
           "Next JS",
@@ -176,7 +176,7 @@
       {
         "id": 5,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%202024-10-08%20at%209.11.25%E2%80%AFAM.png?alt=media&token=0688b537-66e8-49d9-8285-df1c295cff52",
+        "image": "/images/farmopti.png",
         "name": "Farmopti",
         "stack": [
           "Next JS",
@@ -190,8 +190,7 @@
       {
         "id": 3,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%202024-10-08%20at%209.17.39%E2%80%AFAM.png?alt=media&token=0cb2b5db-0bb6-45b5-9f28-c2ae524117f3",
-        "name": "Portfolio-Website",
+        "image": "/images/portfolio.png",
         "stack": [
           "Next JS",
           "Tailwindcss",
