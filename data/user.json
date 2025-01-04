@@ -137,7 +137,10 @@
           "Tailwindcss",
           "tRPC",
           "Shadcn",
-          "Firebase"
+          "Firebase",
+          "Zustand",
+          "Tanstack Query",
+          "Clerk"
         ],
         "category": "Personal Project",
         "url": "https://urtsyle.vercel.app/",
@@ -153,7 +156,8 @@
           "Node",
           "Express",
           "Cloudinary",
-          "Multer"
+          "Multer",
+          "Role Protection"
         ],
         "category": "Personal Project",
         "url": "https://urtsyle.vercel.app/",
