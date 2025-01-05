@@ -1,11 +1,11 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import Script from 'next/script';
+import { GoogleAnalytics } from '@next/third-parties/google'
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
     const initialProps = await Document.getInitialProps(ctx);
     return { ...initialProps };
   }
-
   render() {
     return (
       <Html lang="en" className='scroll-smooth'>
@@ -21,29 +21,12 @@ class MyDocument extends Document {
             integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk"
             crossOrigin="anonymous"
           />
-
-          <Script
-            strategy="afterInteractive"
-            src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
-          />
-          <Script
-            id="ga-script"
-            strategy="afterInteractive"
-            dangerouslySetInnerHTML={{
-              __html: `
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}');
-      `,
-            }}
-          />
-
         </Head>
         <body>
           <Main />
           <NextScript />
         </body>
+        <GoogleAnalytics gaId={`${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`} />
       </Html>
     );
   }
