@@ -20,8 +20,8 @@ const AppHero = () => (
           {DATA.description}
         </p>
         <div className='space-x-2 md:flex'>
-        <AppButton className="bg-primary" title="Hire Me" href="/contact" />
-        <AppButton className="bg-gray" title="View Resume" href="/resume" /></div>
+          <AppButton className="bg-primary" title="Hire Me" href="/contact" />
+          <AppButton className="bg-gray" title="View Resume" href="/resume.pdf" /></div>
       </div>
     </AppContainer>
   </header>
