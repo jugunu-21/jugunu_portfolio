@@ -75,7 +75,7 @@ const AppNav = () => {
           <li key={item.id}>
             <Link
               href={item.url}
-              className={`text-md  text-center transition block py-3 lg:py-0 rounded-lg lg:bg-transparent tracking-widest ${activeLink(
+              className={`text-sm  text-center transition block py-3 lg:py-0 rounded-lg lg:bg-transparent tracking-widest ${activeLink(
                 item.url
               )}`}
             >
@@ -93,7 +93,7 @@ const AppNav = () => {
       />
       <Link
         href="/resume.pdf"
-        className='m-4'
+        className='m-3 p-1 border border-light-gray'
       >
         <span
           className={`inline-block  text-xs lg:text-sm text-center font-bold  py-2 px-9 bg-primary hover:bg-black text-white hover:text-white transition duration-300 `}
