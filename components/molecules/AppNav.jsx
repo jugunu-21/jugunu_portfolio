@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import USER from '../../data/user.json';
 import AppToggle from '../atomics/AppToggle';
-
+import AppButton from '../atomics/AppButton';
 const AppNav = () => {
   const [isActiveNav, setIsActiveNav] = useState(false);
   const [isActiveToggler, setIsActiveToggler] = useState(false);
@@ -44,14 +44,12 @@ const AppNav = () => {
 
   return (
     <nav
-      className={`flex items-center justify-between fixed top-0 z-40 w-full max-w-[1905px] transform right-1/2 translate-x-1/2 md:px-10 2xl:px-20 md:py-3 transition duration-500 ${
-        isActiveNav && 'bg-white'
-      }`}
+      className={`flex items-center justify-between fixed top-0 z-40 w-full max-w-[1905px] transform right-1/2 translate-x-1/2 md:px-10 2xl:px-20 md:py-3 transition duration-500 ${isActiveNav && 'bg-white'
+        }`}
     >
       <div
-        className={`flex items-center justify-between w-full z-50 transition duration-500 ${
-          isActiveToggler && 'bg-white'
-        } ${isActiveNav && 'bg-white'} px-3 md:px-0 py-3 md:py-0`}
+        className={`flex items-center justify-between w-full z-50 transition duration-500 ${isActiveToggler && 'bg-white'
+          } ${isActiveNav && 'bg-white'} px-3 md:px-0 py-3 md:py-0`}
       >
         <Link href="/" className="flex items-center">
           <Image
@@ -68,17 +66,16 @@ const AppNav = () => {
       <ul
         className={`flex transform transition duration-500 absolute lg:static 
          bg-white lg:bg-transparent left-3 right-3 border lg:border-none border-light-gray p-8 lg:p-0 space-y-4 lg:space-y-0 flex-col lg:flex-row space-x-0 lg:space-x-14 rounded-xl z-10
-        ${
-          isActiveToggler
+        ${isActiveToggler
             ? 'translate-y-[250px]'
             : 'translate-y-[-100vh] lg:translate-y-0'
-        }`}
+          }`}
       >
         {USER.navigations.map((item) => (
           <li key={item.id}>
             <Link
               href={item.url}
-              className={`text-sm text-center transition block py-3 lg:py-0 rounded-lg lg:bg-transparent tracking-widest ${activeLink(
+              className={`text-md  text-center transition block py-3 lg:py-0 rounded-lg lg:bg-transparent tracking-widest ${activeLink(
                 item.url
               )}`}
             >
@@ -91,10 +88,20 @@ const AppNav = () => {
       <div
         onClick={handleToggler}
         aria-hidden="true"
-        className={`fixed h-screen top-16 bottom-0 left-0 right-0 transition duration-500 invisible bg-black bg-opacity-80 ${
-          isActiveToggler && 'visible'
-        }`}
+        className={`fixed h-screen top-16 bottom-0 left-0 right-0 transition duration-500 invisible bg-black bg-opacity-80 ${isActiveToggler && 'visible'
+          }`}
       />
+      <Link
+        href="/resume.pdf"
+        className='m-4'
+      >
+        <span
+          className={`inline-block  text-xs lg:text-sm text-center font-bold  py-2 px-9 bg-primary hover:bg-black text-white hover:text-white transition duration-300 `}
+        >
+          Resume
+        </span>
+      </Link>
+
     </nav>
   );
 };
