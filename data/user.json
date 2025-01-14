@@ -230,9 +230,9 @@
         "id": 3,
         "icon": "fa fa-envelope",
         "name": "Gmail",
-        "username": "aaruhijugunu@gmail.com",
+        "username": "connect@jugunu.tech",
         "category": "Email",
-        "url": "mailto:aaruhijugunu@gmail.com"
+        "url": "mailto:connect@jugunu.tech"
       }
     ]
   },
@@ -268,47 +268,15 @@
     "contents": [
       {
         "id": 2,
-        "title": "Courses I Completed",
+        "title": "Work Experience",
         "contents": [
           {
             "id": 5,
-            "timestamp": "5 July 2021 - 25 July 2024",
-            "name": "Hitesh Choudhary | MongoDB",
-            "info": "Chai aur Code",
-            "description": "Proficient in MongoDB, including data modeling, aggregation pipelines, and implementing efficient queries for backend applications:",
-            "url": "https://youtube.com/playlist?list=PLzAGFfNxKFualSih9sm4FCRy9L7o_rVY8&si=jmXazAmJULBCpC59"
-          },
-          {
-            "id": 4,
-            "timestamp": "8 May 2024 - 24 May 2024",
-            "name": "Complete backend developer course part 2",
-            "info": "Chai aur Code",
-            "description": "Studied access and refresh tokens, user update controllers, and subscription schemas in backend development:",
-            "url": "https://youtu.be/8k-kK3tsJFY?si=Dp3PqkZmkhr2sf22"
-          },
-          {
-            "id": 3,
-            "timestamp": "1 Apr 2024 - 13 Apr 2024",
-            "name": "Complete Backend Developer course | Part 1",
-            "info": "Chai aur Code",
-            "description": "Completed the JavaScript Backend Roadmap, covering deployment, MERN integration, data modeling, API handling, and project setup:",
-            "url": "https://youtu.be/7fjOw8ApZ1I?si=rhX2zVScfcVyg5DD/"
-          },
-          {
-            "id": 2,
-            "timestamp": " 10 Jan 2024 - 29 feb 2021",
-            "name": "Next.js Tutorials for Beginners in Hindi",
-            "info": "CodeWithHarry ",
-            "description": "Completed the Complete Next.js Course in Hindi, mastering server-side rendering, file-based routing, MongoDB integration, and application deployment:",
-            "url": "https://youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&si=SvIWk8LEk_SQxGw3"
-          },
-          {
-            "id": 1,
-            "timestamp": "20 Nov 2019 - 20 Dec 2019",
-            "name": "Namaste JavaScript 🙏 Course ",
-            "info": "Front-end Learning Path",
-            "description": "Completed the Namaste JavaScript course, gaining in-depth knowledge of JavaScript fundamentals, internals, and interview preparation for web development:",
-            "url": "https://youtu.be/pN6jk0uUrD8?si=BfsIuRX0zOYQvI12"
+            "timestamp": "July 2024 -  December 2024",
+            "name": "Foozy",
+            "info": "Full Stack Developer",
+            "description": "During my internship at Foozy, I developed a real-time order management system, integrated a web push notification system, built a menu management system, and created an analytics dashboard. I also implemented Cloudinary CDN, automated stock resets, and tracked transactions, improving performance, efficiency, and user engagement across the platform.",
+            "url": "#"
           }
         ]
       },

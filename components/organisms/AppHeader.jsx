@@ -22,10 +22,10 @@ const AppHeader = ({ title, description }) => {
         <p className="text-xs lg:text-sm text-gray max-w-sm tracking-widest mt-3 lg:mt-5 mx-auto">
           {description}
         </p>
-        {title==="Resume"&&  <AppButton title="View Resume" href="Jugunu Resume (2).pdf" color="primary" />}
-       
+        {title === "Resume" && <AppButton title="View Resume" href="Jugunu Resume.pdf" color="primary" />}
+
       </div>
-      
+
     </AppSection>
   );
 };
