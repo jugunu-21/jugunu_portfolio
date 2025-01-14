@@ -36,7 +36,7 @@ AppShell.propTypes = {
 AppShell.defaultProps = {
   title: 'Jugunu Singh',
   description:
-    'I am passionate and interested in the ever-growing field of Web development.',
+    'I’m deeply interested in the ever-growing field of web development, always excited to create innovative solutions.',
   keyword: '',
   hero: false,
   cta: true,

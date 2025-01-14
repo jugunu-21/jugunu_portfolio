@@ -8,7 +8,6 @@ class MyDocument extends Document {
   }
 
   render() {
-    console.log('Google Analytics ID:', process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS);
     return (
       <Html lang="en" className='scroll-smooth'>
         <Head>

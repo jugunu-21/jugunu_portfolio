@@ -1,7 +1,7 @@
 {
   "name": "Jugunu Singh",
   "status": "Full Stack Web Developer",
-  "description": "I am passionate and interested in the ever-growing field of Web development",
+  "description": "I’m deeply interested in the ever-growing field of web development, always excited to create innovative solutions.",
   "navigations": [
     {
       "id": 1,
@@ -9,24 +9,19 @@
       "url": "/"
     },
     {
+      "id": 4,
+      "name": "Experience",
+      "url": "/#experience"
+    },
+    {
       "id": 3,
       "name": "Projects",
       "url": "/#project"
     },
     {
-      "id": 4,
-      "name": "About",
-      "url": "/#about"
-    },
-    {
       "id": 5,
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "id": 2,
-      "name": "Resume",
-      "url": "/resume"
     }
   ],
   "services": [
@@ -242,6 +237,27 @@
       }
     ]
   },
+  "experience": {
+    "title": "Work Experience",
+    "contents": [
+      {
+        "id": 1,
+        "timestamp": "July 2024 -  December 2024",
+        "name": "Foozy",
+        "info": "Full Stack Developer",
+        "description": "During my Journey at Foozy, I developed a real-time order management system, integrated a web push notification system, built a menu management system, and created an analytics dashboard. I also implemented Cloudinary CDN, automated stock resets, and tracked transactions, improving performance, efficiency, and user engagement across the platform.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "timestamp": "January 2024 -  June 2024",
+        "name": "Tailblaze",
+        "info": "Frontend Developer Intern",
+        "description": "During my internship at TailBlaze, I developed a responsive landing page using React JS, built a Shopify e-commerce site, and integrated Mailchimp for email management. I also added Google Analytics for tracking website traffic and user behavior, enhancing data-driven decision-making and platform performance.",
+        "url": "#"
+      }
+    ]
+  },
   "about": {
     "title": "About",
     "description": "Hi, I’m Jugunu Singh, a passionate Full Stack Developer with a year of experience working with the MERN stack. I’ve contributed to building web applications like admin dashboards, landing pages, and real-time systems. My journey began with a love for creating user-friendly interfaces, and now I’m all about crafting dynamic, scalable solutions. I’m skilled in tools like React, Next.js, and TailwindCSS, and enjoy challenges like data visualization and optimizing performance. "
@@ -255,11 +271,19 @@
         "title": "Work Experience",
         "contents": [
           {
-            "id": 5,
+            "id": 1,
             "timestamp": "July 2024 -  December 2024",
             "name": "Foozy",
             "info": "Full Stack Developer",
-            "description": "During my internship at Foozy, I developed a real-time order management system, integrated a web push notification system, built a menu management system, and created an analytics dashboard. I also implemented Cloudinary CDN, automated stock resets, and tracked transactions, improving performance, efficiency, and user engagement across the platform.",
+            "description": "During my Journey at Foozy, I developed a real-time order management system, integrated a web push notification system, built a menu management system, and created an analytics dashboard. I also implemented Cloudinary CDN, automated stock resets, and tracked transactions, improving performance, efficiency, and user engagement across the platform.",
+            "url": "#"
+          },
+          {
+            "id": 2,
+            "timestamp": "January 2024 -  June 2024",
+            "name": "Tailblaze",
+            "info": "Frontend Developer Intern",
+            "description": "During my internship at TailBlaze, I developed a responsive landing page using React JS, built a Shopify e-commerce site, and integrated Mailchimp for email management. I also added Google Analytics for tracking website traffic and user behavior, enhancing data-driven decision-making and platform performance.",
             "url": "#"
           }
         ]

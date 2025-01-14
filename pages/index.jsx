@@ -4,9 +4,10 @@ import USER from '../data/user.json';
 import AppSection from '../components/molecules/AppSection';
 import AppProject from '../components/atomics/AppProject';
 import AppShell from '../components/templates/AppShell';
-
+import AppTimeline from '../components/atomics/AppTimeline';
 const Home = () => (
   <div >
+
     <AppShell hero>
       <div id="about">
         <AppSection title={USER.about.title} >
@@ -40,6 +41,34 @@ const Home = () => (
           ))}
         </div>
       </AppSection>
+      <div id="experience">
+        <AppSection title={USER.experience.title} className="py-0">
+          {USER.experience.contents.map((subItem) => (
+            <AppTimeline key={subItem.id} item={subItem}>
+              {subItem.description}
+              {subItem.list ? (
+                <ul className="mt-4">
+                  {subItem.list.map((listItem) => (
+                    <li key={listItem.id} className="list-disc list-inside mb-2">
+                      <a
+                        href={listItem.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-black hover:text-primary"
+                        title={listItem.level}
+                      >
+                        {listItem.name}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                ''
+              )}
+            </AppTimeline>
+          ))}
+        </AppSection>
+      </div>
       <AppSection title="Projects's I have Completed">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6">
           {USER.project.contents
