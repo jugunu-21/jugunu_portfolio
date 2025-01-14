@@ -16,7 +16,7 @@
     {
       "id": 4,
       "name": "About",
-      "url": "/about"
+      "url": "/#about"
     },
     {
       "id": 5,
@@ -31,34 +31,40 @@
   ],
   "services": [
     {
-      "id": 1,
+      "id": 6,
       "name": "Website dev",
       "description": "Developing a website appearance based on design into a website that can be use. With good performance",
       "icon": "/services/service-website.svg"
     },
     {
       "id": 2,
-      "name": "WebApps dev",
-      "description": "Developing a very well-functioning web applications, various features and performance",
-      "icon": "/services/service-webapps.svg"
+      "name": "Frontend Development(Next.js,React.js)",
+      "description": "Create stunning, high-performance web applications using modern frontend technologies like React.js and Next.js. From dynamic interfaces to server-rendered applications, we deliver seamless user experiences tailored to your needs.",
+      "icon": "services/React Logo Icon.svg"
     },
     {
       "id": 3,
+      "name": "Backend Development(Express.js)",
+      "description": "Deliver robust and scalable backend solutions using Express.js, a fast and minimalist Node.js framework for building APIs and server-side applications efficiently.",
+      "icon": "/services/Express JS Icons.svg"
+    },
+    {
+      "id": 1,
+      "name": "SEO Optimization",
+      "description": "Expert SEO optimization services designed to improve your website's search engine rankings, drive organic traffic, and enhance online visibility with tailored strategies and proven techniques.",
+      "icon": "/services/service-webapps.svg"
+    },
+    {
+      "id": 4,
       "name": "Responsive design",
       "description": "Develop a good Frontend design for mobile, tablet, desktop and all screen devices",
       "icon": "/services/service-rwd.svg"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Best Performance",
       "description": "Develop a good Performance website and web application for more better experience",
       "icon": "/services/service-performance.svg"
-    },
-    {
-      "id": 5,
-      "name": "Progressive Web Apps",
-      "description": "Develop a Progressive web apps, create website and website with native apps experience",
-      "icon": "/services/service-pwa.svg"
     }
   ],
   "skills": [
@@ -238,29 +244,7 @@
   },
   "about": {
     "title": "About",
-    "description": "Learn more about my journey, experiences, and aspirations.",
-    "contents": [
-      {
-        "id": 1,
-        "name": "My History",
-        "description": "Hi, my name is Jugunu Singh, and I come from Kushinagar, Uttar Pradesh, India. I studied B.Tech in Information Technology (IT) at Hemwati Nandan Bahuguna Garhwal University. I began my web journey a few months ago through YouTube, where I started learning web development while simultaneously building my own website to enhance my skills."
-      },
-      {
-        "id": 2,
-        "name": "Current Endeavors",
-        "description": "I'm developing a platform that enables users to discover and purchase outfits from online retailers like Amazon, Myntra, and Flipkart. This site streamlines the process of finding complete ensembles, assisting busy individuals in exploring options that include complementary clothing and accessories, integrated with affiliate links."
-      },
-      {
-        "id": 3,
-        "name": "Future Plans",
-        "description": "My next objective is to refine my web development skills and explore new technologies. I aim to contribute to an innovative company where I will continue to learn, grow, and make a significant impact through hands-on experience."
-      },
-      {
-        "id": 4,
-        "name": "Aspirations",
-        "description": "I strive to become a highly proficient web developer, keeping pace with the latest trends. I envision being self-sufficient, productive, and professional. Through my work, I hope to make positive contributions to the tech industry and inspire others. Additionally, I plan to enhance my website’s capabilities to tackle challenges in outfit pairing and styling."
-      }
-    ]
+    "description": "Hi, I’m Jugunu Singh, a passionate Full Stack Developer with a year of experience working with the MERN stack. I’ve contributed to building web applications like admin dashboards, landing pages, and real-time systems. My journey began with a love for creating user-friendly interfaces, and now I’m all about crafting dynamic, scalable solutions. I’m skilled in tools like React, Next.js, and TailwindCSS, and enjoy challenges like data visualization and optimizing performance. "
   },
   "resume": {
     "title": "Resume",
