@@ -22,8 +22,9 @@ const AppHero = () => (
             {DATA.description}
           </p>
           <div className='space-x-2 md:flex'>
-            <AppButton className="bg-primary" title="Hire Me" href="/contact" />
-            <AppButton className="bg-gray" title="View Resume" href="/resume.pdf" /></div>
+            <AppButton className="bg-primary" title="View   Projects" href="/#project" />
+            {/* <AppButton className="bg-gray" title="View Resume" href="/resume.pdf" /> */}
+          </div>
         </div>
         <Image className='hidden lg:block rounded-lg  aspect-square h-full w-full p-14 mr-0' src="/profile-img.png" height={200} width={200} alt="Developer profile picture"></Image>
       </div>
