@@ -93,7 +93,7 @@ const AppNav = () => {
       />
       <Link
         href="/resume.pdf"
-        className='my-4 ml-14 mr-6 lg:ml-14 p-1 border border-light-gray'
+        className='my-4 ml-4 md:ml-10 mr-4 lg:ml-14 p-1 border border-light-gray'
       >
         <span
           className={`inline-block  text-xs lg:text-sm text-center font-bold  py-2 px-9 bg-primary hover:bg-black text-white hover:text-white transition duration-300 `}
