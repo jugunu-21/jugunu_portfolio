@@ -53,7 +53,7 @@ const AppNav = () => {
       >
         <Link href="/" className="flex items-center">
           <Image
-            src="https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/WhatsApp%20Image%202024-09-24%20at%2014.04.13.jpeg?alt=media&token=2354f327-79dd-4af2-a905-573aa9023509"
+            src="/images/icon.svg"
             alt="Jugunu Singh"
             width={40}
             height={40}
@@ -93,7 +93,7 @@ const AppNav = () => {
       />
       <Link
         href="/resume.pdf"
-        className='m-3 p-1 border border-light-gray'
+        className='m-3 ml-6 lg:mx-14 p-1 border border-light-gray'
       >
         <span
           className={`inline-block  text-xs lg:text-sm text-center font-bold  py-2 px-9 bg-primary hover:bg-black text-white hover:text-white transition duration-300 `}

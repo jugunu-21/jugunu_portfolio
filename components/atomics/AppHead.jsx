@@ -9,7 +9,7 @@ const AppHead = ({ title, description, keyword, image }) => (
       name="keywords"
       content={`Jugunu Singh, web developer, portfolio, frontend developer, web developer, frontend enginer, Jugunu Singh, medan, Jugunu Singh portfolio, software enginer, ${keyword}`}
     />
-    <link rel="shortcut icon" href="/images/icon.jpeg" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.json" />
     <meta name="theme-color" content="#FFFFFF" />

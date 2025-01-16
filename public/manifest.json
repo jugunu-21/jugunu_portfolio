@@ -9,7 +9,7 @@
   "description": "Jugunu Singh Personal Portfolio Website",
   "icons": [
     {
-      "src": "/images/icon.jpeg",
+      "src": "/images/icon.svg",
       "sizes": "192x192",
       "type": "image/png"
     }
