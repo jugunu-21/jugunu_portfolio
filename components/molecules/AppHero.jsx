@@ -5,9 +5,9 @@ import Image from 'next/image';
 const AppHero = () => (
   <header className="bg-hero-pattern bg-no-repeat bg-center px-3">
     <AppContainer>
-      <div className=' flex  items-center  justify-center  pt-16'>
+      <div className=' flex  items-center  justify-center '>
         <div className="h-screen flex flex-col justify-center items-center text-center lg:items-start lg:text-left">
-          <Image className='lg:hidden  mx-auto m-8 md:mt-4 rounded-lg' src="/profile-img.png" height="200" width="200"></Image>
+          <Image className='lg:hidden  mx-auto  rounded-lg' src="/profile-img.png" height="200" width="200"></Image>
           <span className="text-xs md:text-sm text-black flex items-center">
             <span>Hi, I&apos;m</span>
             <span className="block w-6 lg:w-11 h-1 bg-primary ml-2 rounded-lg" />
