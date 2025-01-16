@@ -15,7 +15,7 @@ const AppHero = () => (
           <h1 className="text-5xl lg:text-8xl font-bold text-black">
             {DATA.name}
           </h1>
-          <h2 className="text-xl lg:text-4xl font-bold text-primary mt-2">
+          <h2 className="text-xl lg:text-2xl font-bold text-primary mt-2 py-2">
             [{DATA.status}]
           </h2>
           <p className="text-xs lg:text-base text-gray max-w-md tracking-widest mt-2 lg:mt-3 md:ml-1">
