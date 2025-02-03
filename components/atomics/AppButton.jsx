@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types';
 import Link from 'next/link';
-
 const AppButton = ({ title, href, className }) => (
   <Link
+    target="_blank"
     href={href}
     className={`inline-block w-max p-2 mt-6 border border-light-gray `}
   >
@@ -13,7 +13,6 @@ const AppButton = ({ title, href, className }) => (
     </span>
   </Link>
 );
-
 AppButton.propTypes = {
   title: PropTypes.string,
   href: PropTypes.string,

@@ -92,6 +92,7 @@ const AppNav = () => {
           }`}
       />
       <Link
+        target='_blank'
         href="/resume.pdf"
         className='my-4 ml-4 md:ml-10 mr-4 lg:ml-14 p-1 border border-light-gray'
       >
