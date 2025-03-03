@@ -226,7 +226,7 @@
         "id": 7,
         "top": true,
         "image": "/images/travel-clue.png",
-        "name": "travel-clue",
+        "name": "Travel-clue",
         "stack": [
           "React",
           "TypeScript",
@@ -242,7 +242,7 @@
         "id": 8,
         "top": true,
         "image": "/images/weatherly.png",
-        "name": "weatherly",
+        "name": "Weatherly",
         "stack": [
           "React",
           "TypeScript",
@@ -257,8 +257,8 @@
       {
         "id": 9,
         "top": true,
-        "image": "/images/task-buddy.png",
-        "name": "task-buddy",
+        "image": "/images/task-management.png",
+        "name": "Task Management",
         "stack": [
           "Next.js",
           "Tailwindcss",
@@ -270,6 +270,23 @@
         "category": "Personal Project",
         "url": "https://task-buddy-henna.vercel.app/",
         "giturl": "https://github.com/jugunu-21/Task_Buddy"
+      },
+      {
+        "id": 10,
+        "top": true,
+        "image": "/images/to-do-list.png",
+        "name": "To Do List",
+        "stack": [
+          "React 18",
+          "Tailwindcss",
+          "Redux Toolkit",
+          "Shadcn/UI",
+          "Framer Motion",
+          "React Hot Toast"
+        ],
+        "category": "Personal Project",
+        "url": "https://todo-list-smoky-two.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/todo_list"
       }
     ]
   },
