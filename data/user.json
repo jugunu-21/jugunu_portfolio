@@ -237,6 +237,22 @@
         "category": "Personal Project",
         "url": "https://travel-clue.vercel.app/",
         "giturl": "https://github.com/jugunu-21/travel-clue"
+      },
+      {
+        "id": 8,
+        "top": true,
+        "image": "/images/weatherly.png",
+        "name": "weatherly",
+        "stack": [
+          "React",
+          "TypeScript",
+          "Tailwind CSS",
+          "Vite",
+          "React Query"
+        ],
+        "category": "Personal Project",
+        "url": "https://weatherly-codexai.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/weatherly_codex"
       }
     ]
   },
