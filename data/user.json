@@ -221,6 +221,22 @@
         "category": "Personal Project",
         "url": "https://shopify-assess.vercel.app/",
         "giturl": "https://github.com/jugunu-21/shopify-assess"
+      },
+      {
+        "id": 7,
+        "top": true,
+        "image": "/images/travel-clue.png",
+        "name": "travel-clue",
+        "stack": [
+          "React",
+          "TypeScript",
+          "Tailwindcss",
+          "shadcn/ui",
+          "Vite"
+        ],
+        "category": "Personal Project",
+        "url": "https://travel-clue.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/travel-clue"
       }
     ]
   },
