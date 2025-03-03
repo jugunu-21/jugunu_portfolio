@@ -253,6 +253,23 @@
         "category": "Personal Project",
         "url": "https://weatherly-codexai.vercel.app/",
         "giturl": "https://github.com/jugunu-21/weatherly_codex"
+      },
+      {
+        "id": 9,
+        "top": true,
+        "image": "/images/task-buddy.png",
+        "name": "task-buddy",
+        "stack": [
+          "Next.js",
+          "Tailwindcss",
+          "Prisma",
+          "Firebase",
+          "Redux Toolkit",
+          "Shadcn/UI"
+        ],
+        "category": "Personal Project",
+        "url": "https://task-buddy-henna.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/Task_Buddy"
       }
     ]
   },
