@@ -148,7 +148,7 @@
         "giturl": "https://github.com/jugunu-21/urtsyle"
       },
       {
-        "id": 5,
+        "id": 2,
         "top": true,
         "image": "/images/urstyle-backend2.png",
         "name": "Urstyle backend",
@@ -165,7 +165,7 @@
         "giturl": "https://github.com/jugunu-21/urstyle-backend"
       },
       {
-        "id": 2,
+        "id": 3,
         "top": true,
         "image": "/images/keybolt.png",
         "name": "Keybolt",
@@ -179,7 +179,7 @@
         "giturl": "https://github.com/jugunu-21/keybolt"
       },
       {
-        "id": 5,
+        "id": 4,
         "top": true,
         "image": "/images/farmopti.png",
         "name": "Farmopti",
@@ -193,9 +193,10 @@
         "giturl": "https://github.com/jugunu-21/farmopti"
       },
       {
-        "id": 3,
+        "id": 5,
         "top": true,
         "image": "/images/portfolio.png",
+        "name": "Portfolio",
         "stack": [
           "Next JS",
           "Tailwindcss",
@@ -204,6 +205,22 @@
         "category": "Personal Project",
         "url": "https://www.jugunu.tech/",
         "giturl": "https://github.com/jugunu-21/jugunu_portfolio"
+      },
+      {
+        "id": 6,
+        "top": true,
+        "image": "/images/shopify.png",
+        "name": "Shopify Analytics",
+        "stack": [
+          "Next.js",
+          "Tailwindcss",
+          "Prisma",
+          "MongoDB",
+          "Shopify API"
+        ],
+        "category": "Personal Project",
+        "url": "https://shopify-assess.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/shopify-assess"
       }
     ]
   },
