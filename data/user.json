@@ -327,7 +327,7 @@
         "id": 1,
         "timestamp": "July 2024 -  December 2024",
         "name": "Foozy",
-        "info": "Full Stack Developer Intern",
+        "info": "Full Stack Developer ",
         "description": "During my Journey at Foozy, I developed a real-time order management system, integrated a web push notification system, built a menu management system, and created an analytics dashboard. I also implemented Cloudinary CDN, automated stock resets, and tracked transactions, improving performance, efficiency, and user engagement across the platform.",
         "url": "#"
       },
