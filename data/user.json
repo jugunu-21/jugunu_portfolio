@@ -129,6 +129,70 @@
     "desctiption": "Some of the projects that I've worked on to completion with some of the technologies",
     "contents": [
       {
+        "id": 7,
+        "top": true,
+        "image": "/images/travel-clue.png",
+        "name": "Travel-clue",
+        "stack": [
+          "React",
+          "TypeScript",
+          "Tailwindcss",
+          "shadcn/ui",
+          "Vite"
+        ],
+        "category": "Personal Project",
+        "url": "https://travel-clue.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/travel-clue"
+      },
+      {
+        "id": 9,
+        "top": true,
+        "image": "/images/task-management.png",
+        "name": "Task Management",
+        "stack": [
+          "Next.js",
+          "Tailwindcss",
+          "Prisma",
+          "Firebase",
+          "Redux Toolkit",
+          "Shadcn/UI"
+        ],
+        "category": "Personal Project",
+        "url": "https://task-buddy-henna.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/Task_Buddy"
+      },
+
+      {
+        "id": 8,
+        "top": true,
+        "image": "/images/weatherly.png",
+        "name": "Weatherly",
+        "stack": [
+          "React",
+          "TypeScript",
+          "Tailwind CSS",
+          "Vite",
+          "React Query"
+        ],
+        "category": "Personal Project",
+        "url": "https://weatherly-codexai.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/weatherly_codex"
+      },
+      {
+        "id": 3,
+        "top": true,
+        "image": "/images/keybolt.png",
+        "name": "Keybolt",
+        "stack": [
+          "Next JS",
+          "Tailwindcss",
+          "Vercel"
+        ],
+        "category": "Personal Project",
+        "url": "https://keybolt.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/keybolt"
+      },
+      {
         "id": 1,
         "top": true,
         "image": "/images/urtsyle.png",
@@ -164,20 +228,7 @@
         "url": "https://urtsyle.vercel.app/",
         "giturl": "https://github.com/jugunu-21/urstyle-backend"
       },
-      {
-        "id": 3,
-        "top": true,
-        "image": "/images/keybolt.png",
-        "name": "Keybolt",
-        "stack": [
-          "Next JS",
-          "Tailwindcss",
-          "Vercel"
-        ],
-        "category": "Personal Project",
-        "url": "https://keybolt.vercel.app/",
-        "giturl": "https://github.com/jugunu-21/keybolt"
-      },
+
       {
         "id": 4,
         "top": true,
@@ -222,55 +273,8 @@
         "url": "https://shopify-assess.vercel.app/",
         "giturl": "https://github.com/jugunu-21/shopify-assess"
       },
-      {
-        "id": 7,
-        "top": true,
-        "image": "/images/travel-clue.png",
-        "name": "Travel-clue",
-        "stack": [
-          "React",
-          "TypeScript",
-          "Tailwindcss",
-          "shadcn/ui",
-          "Vite"
-        ],
-        "category": "Personal Project",
-        "url": "https://travel-clue.vercel.app/",
-        "giturl": "https://github.com/jugunu-21/travel-clue"
-      },
-      {
-        "id": 8,
-        "top": true,
-        "image": "/images/weatherly.png",
-        "name": "Weatherly",
-        "stack": [
-          "React",
-          "TypeScript",
-          "Tailwind CSS",
-          "Vite",
-          "React Query"
-        ],
-        "category": "Personal Project",
-        "url": "https://weatherly-codexai.vercel.app/",
-        "giturl": "https://github.com/jugunu-21/weatherly_codex"
-      },
-      {
-        "id": 9,
-        "top": true,
-        "image": "/images/task-management.png",
-        "name": "Task Management",
-        "stack": [
-          "Next.js",
-          "Tailwindcss",
-          "Prisma",
-          "Firebase",
-          "Redux Toolkit",
-          "Shadcn/UI"
-        ],
-        "category": "Personal Project",
-        "url": "https://task-buddy-henna.vercel.app/",
-        "giturl": "https://github.com/jugunu-21/Task_Buddy"
-      },
+     
+      
       {
         "id": 10,
         "top": true,
