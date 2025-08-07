@@ -338,16 +338,27 @@
   "experience": {
     "title": "Work Experience",
     "contents": [
+      
+        {
+          "id": 1,
+          "timestamp": "March 2025 - July 2025",
+          "name": "causalfunnel",
+          "info": "Shopify App Developer Intern",
+          "description": "Built two full-featured Shopify apps from scratch – ABTest (for price, product, and discount testing) and Survey App (for collecting customer feedback), both live on the Shopify App Store, empowering merchants with data-driven decision-making tools. Integrated Shopify APIs, webhooks, and Polaris UI to ensure seamless store connectivity, real-time updates, and a native admin dashboard experience. Additionally worked as a WordPress Developer, building and customizing dynamic websites using Elementor, aligned with client branding and SEO best practices.",
+          "url": "#"
+
+        
+      },
       {
-        "id": 1,
-        "timestamp": "July 2024 -  December 2024",
+        "id": 2,
+        "timestamp": "July 2024 -  February 2025",
         "name": "Foozy",
-        "info": "Full Stack Developer ",
+        "info": "Full Stack Developer Intern ",
         "description": "During my Journey at Foozy, I developed a real-time order management system, integrated a web push notification system, built a menu management system, and created an analytics dashboard. I also implemented Cloudinary CDN, automated stock resets, and tracked transactions, improving performance, efficiency, and user engagement across the platform.",
         "url": "#"
       },
       {
-        "id": 2,
+        "id": 3,
         "timestamp": "January 2024 -  June 2024",
         "name": "Tailblaze",
         "info": "Frontend Developer Intern",
