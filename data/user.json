@@ -85,6 +85,11 @@
       "icon": "/skills/shopify.svg"
     },
     {
+      "id": 18,
+      "name": "WordPress",
+      "icon": "/skills/wordpress.svg"
+    },
+    {
       "id": 3,
       "name": "Javascript",
       "icon": "/skills/skill-javascript.svg"
