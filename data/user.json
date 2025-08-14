@@ -64,81 +64,67 @@
   ],
   "skills": [
     {
-      "id": 7,
+      "id": 1,
+      "name": "Next JS",
+      "icon": "/skills/skill-nextjs.svg"
+    },
+    {
+      "id": 2,
       "name": "React JS",
       "icon": "/skills/skill-reactjs.svg"
     },
-    {
-      "id": 8,
-      "name": "Next JS",
-      "icon": "/skills/skill-nextjs.svg"
-    }
-    ,
-    {
-      "id": 16,
-      "name": "Remix",
-      "icon": "/skills/skill-remix.svg"
-    },
-    {
-      "id": 17,
-      "name": "Shopify",
-      "icon": "/skills/shopify.svg"
-    },
-    {
-      "id": 18,
-      "name": "WordPress",
-      "icon": "/skills/wordpress.svg"
-    },
+
+   
     {
       "id": 3,
-      "name": "Javascript",
-      "icon": "/skills/skill-javascript.svg"
-    },
-    {
-      "id": 1,
-      "name": "Typescript",
-      "icon": "/skills/Typescript Vector Icon.svg"
+      "name": "Shopify",
+      "icon": "/skills/skill-shopify.svg"
     },
     {
       "id": 4,
       "name": "TailwindCss",
       "icon": "/skills/skill-tailwindcss.svg"
     },
+
+   
+    
     {
       "id": 5,
       "name": "Express",
-      "icon": "/skills/simple-icons--express (1).svg"
+      "icon": "/skills/skill-express.svg"
     },
     {
       "id": 6,
-      "name": "Mongodb",
-      "icon": "/skills/skill-mongodb-svgrepo-com.svg"
+      "name": "Remix",
+      "icon": "/skills/skill-remix.svg"
+    },
+    
+    {
+      "id": 7,
+      "name": "Typescript",
+      "icon": "/skills/skill-typescript.svg"
+    },
+    {
+      "id": 8,
+      "name": "T3 Stack",
+      "icon": "/skills/skill-t3.svg"
     },
     {
       "id": 9,
-      "name": "Firebase",
-      "icon": "/skills/skill-firebase.svg"
+      "name": "Auth Mechanism",
+      "icon": "/skills/skill-auth.svg"
+    },
+    {
+      "id": 10,
+      "name": "MongoDB",
+      "icon": "/skills/skill-mongodb.svg"
     },
     {
       "id": 11,
-      "name": "Github",
-      "icon": "/skills/skill-github.svg"
-    },
-    {
-      "id": 12,
-      "name": "tRPC",
-      "icon": "/skills/logos--trpc.svg"
-    },
-    {
-      "id": 13,
-      "name": "HTML",
-      "icon": "/skills/skill-html5.svg"
-    },
-    {
-      "id": 14,
-      "name": "CSS",
-      "icon": "/skills/skill-css3.svg"
+      "name": "Prisma",
+      "icon": "/skills/skill-prisma.svg"
     }
+    
   ],
   "project": {
     "title": "Project",
