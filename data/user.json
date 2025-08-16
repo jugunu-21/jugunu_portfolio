@@ -246,6 +246,22 @@
         "giturl": "https://github.com/jugunu-21/farmopti"
       },
       {
+        "id": 13,
+        "top": true,
+        "image": "/images/POS.png",
+        "name": "POS",
+        "stack": [
+          "Next JS",
+          "Tailwindcss",
+          "Vercel",
+          "Postgres",
+          "Clerk"
+        ],
+        "category": "Personal Project",
+        "url": "https://pos-saas-main.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/pos-saas-main"
+      },
+      {
         "id": 5,
         "top": true,
         "image": "/images/portfolio.png",
