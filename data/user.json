@@ -339,6 +339,21 @@
         "category": "Personal Project",
         "url": "https://cognivideo-health.vercel.app/",
         "giturl": "https://github.com/jugunu-21/cognivideo-health-insights"
+      },
+      {
+        "id": 16,
+        "top": true,
+        "image": "/images/kindle-content-curator.png",
+        "name": "Kindle Content Curator",
+        "stack": [
+          "Next.js",
+          "Tailwindcss",
+          "TypeScript",
+          "Vercel"
+        ],
+        "category": "Personal Project",
+        "url": "https://kindle-content-curator.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/kindle-content-curator"
       }
     ]
   },
