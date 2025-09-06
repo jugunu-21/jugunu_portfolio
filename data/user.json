@@ -309,6 +309,21 @@
         "category": "Personal Project",
         "url": "https://todo-list-smoky-two.vercel.app/",
         "giturl": "https://github.com/jugunu-21/todo_list"
+      },
+      {
+        "id": 14,
+        "top": true,
+        "image": "/images/inspecta.png",
+        "name": "Inspecta",
+        "stack": [
+          "Next.js",
+          "Tailwindcss",
+          "TypeScript",
+          "Vercel"
+        ],
+        "category": "Personal Project",
+        "url": "https://www.inspecta.uk/",
+        "giturl": "https://github.com/jugunu-21/inspecta-ai"
       }
     ]
   },
