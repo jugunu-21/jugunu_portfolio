@@ -131,7 +131,43 @@
     "desctiption": "Some of the projects that I've worked on to completion with some of the technologies",
     "contents": [
       {
-        "id": 7,
+        "id": 1,
+        "top": true,
+        "image": "/images/shopify-ab-testing.png",
+        "name": "Shopify A/B Testing",
+        "stack": [
+          "Remix",
+          "Shopify Polaris",
+          " Webhooks",
+          " Extensions",
+          "GraphQL"
+        ],
+        "category": "Shopify App",
+        "url": "https://apps.shopify.com/conversion-rate-optimization-1",
+        "giturl": "https://github.com/jugunu-21/shopify-ab-testing",
+        "description": "An optimization app built using Remix and Shopify Polaris to run A/B experiments on pricing, products, and discounts. It leverages multiple Shopify extensions and webhooks to dynamically inject blocks and automate testing for conversion improvements."
+      },
+      {
+        "id": 2,
+        "top": true,
+        "image": "/images/shopify-pulse.png",
+        "name": "Customer Pulse",
+        "stack": [
+          "Remix",
+          "Shopify Polaris",
+          "Webhooks",
+          "Extensions",
+          "GraphQL"
+         
+        ],
+        "category": "Shopify App",
+        "url": "https://apps.shopify.com/causalfunnel-pulse",
+        "giturl": "https://github.com/jugunu-21/shopify-pulse",
+        "description": "A retention-focused app using Remix, Polaris, and Shopify Extensions to collect post-purchase feedback, inject survey blocks into store themes, and trigger automated responses via webhooks to improve merchant retention and reduce return rates."
+      }
+,      
+      {
+        "id": 3,
         "top": true,
         "image": "/images/travel-clue.png",
         "name": "Travel-clue",
@@ -147,7 +183,7 @@
         "giturl": "https://github.com/jugunu-21/travel-clue"
       },
       {
-        "id": 9,
+        "id": 4,
         "top": true,
         "image": "/images/task-management.png",
         "name": "Task Management",
@@ -165,7 +201,7 @@
       },
 
       {
-        "id": 8,
+        "id": 5,
         "top": true,
         "image": "/images/weatherly.png",
         "name": "Weatherly",
@@ -181,7 +217,7 @@
         "giturl": "https://github.com/jugunu-21/weatherly_codex"
       },
       {
-        "id": 3,
+        "id": 6,
         "top": true,
         "image": "/images/keybolt.png",
         "name": "Keybolt",
@@ -195,7 +231,7 @@
         "giturl": "https://github.com/jugunu-21/keybolt"
       },
       {
-        "id": 1,
+        "id": 7,
         "top": true,
         "image": "/images/urtsyle.png",
         "name": "Urstyle frontend",
@@ -214,7 +250,7 @@
         "giturl": "https://github.com/jugunu-21/urtsyle"
       },
       {
-        "id": 2,
+        "id": 8,
         "top": true,
         "image": "/images/urstyle-backend2.png",
         "name": "Urstyle backend",
@@ -232,7 +268,7 @@
       },
 
       {
-        "id": 4,
+        "id": 9,
         "top": true,
         "image": "/images/farmopti.png",
         "name": "Farmopti",
@@ -246,7 +282,7 @@
         "giturl": "https://github.com/jugunu-21/farmopti"
       },
       {
-        "id": 13,
+        "id": 10,
         "top": true,
         "image": "/images/POS.png",
         "name": "POS",
@@ -262,7 +298,7 @@
         "giturl": "https://github.com/jugunu-21/pos-saas-main"
       },
       {
-        "id": 5,
+        "id": 11,
         "top": true,
         "image": "/images/portfolio.png",
         "name": "Portfolio",
@@ -276,7 +312,7 @@
         "giturl": "https://github.com/jugunu-21/jugunu_portfolio"
       },
       {
-        "id": 6,
+        "id": 12,
         "top": true,
         "image": "/images/shopify.png",
         "name": "Shopify Analytics",
@@ -294,7 +330,7 @@
      
       
       {
-        "id": 10,
+        "id": 13,
         "top": true,
         "image": "/images/to-do-list.png",
         "name": "To Do List",
